@@ -7,11 +7,10 @@
     android:name="android.support.v4.app.ListFragment"
     tools:context="com.example.jinqh.myapplication.BlankFragment4">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:id="@+id/t004"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment4" />
 
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="正在快马加急的敲代码" />
 </FrameLayout>

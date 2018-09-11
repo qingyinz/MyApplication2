@@ -19,7 +19,7 @@ public class BlankFragment4 extends Fragment {
     }
     @Override
     public void onStart() {
-        TextView textView = getView().findViewById(R.id.t004);
+
         super.onStart();
     }
 }

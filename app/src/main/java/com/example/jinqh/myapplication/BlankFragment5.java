@@ -17,7 +17,7 @@ public class BlankFragment5 extends Fragment {
     }
     @Override
     public void onStart() {
-        TextView textView = getView().findViewById(R.id.t005);
+
         super.onStart();
     }
 }
